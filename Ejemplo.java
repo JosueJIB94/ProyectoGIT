@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adios
+=======
+hola
+>>>>>>> calculo
